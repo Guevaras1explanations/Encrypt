@@ -8,13 +8,13 @@ pip install emojify
 
 If installation fails with pip for some reason, you can just clone the repository, since there are no dependancies apart from python 3:
 
-git clone https://github.com/chris-rands/emojify;
-cd emojify
+git clone https://github.com/Guevaras1explanations/Encrypt;
+cd Encrypt
 Usage
 
 emojify --input input_script.py --output output_script.py
 
-For help: emojify --help
+For help: Encrypt --help
 
 For unit testing: test_emojify
 
