@@ -1,0 +1,4 @@
+import emojify
+
+args = emojify.run_argparse()
+emojify.main(args.input, args.output, args.emoji)
